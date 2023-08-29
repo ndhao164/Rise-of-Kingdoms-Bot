@@ -1,9 +1,12 @@
-![issues](https://img.shields.io/github/issues/yuceltoluyag/Rise-of-Kingdoms-Bot)
-![forks](https://img.shields.io/github/forks/yuceltoluyag/Rise-of-Kingdoms-Bot)
-![stars](https://img.shields.io/github/stars/yuceltoluyag/Rise-of-Kingdoms-Bot)
-![lincense](https://img.shields.io/github/license/yuceltoluyag/Rise-of-Kingdoms-Bot)
+![issues](https://img.shields.io/github/issues/ndhao164/Rise-of-Kingdoms-Bot)
+![forks](https://img.shields.io/github/forks/ndhao164/Rise-of-Kingdoms-Bot)
+![stars](https://img.shields.io/github/stars/ndhao164/Rise-of-Kingdoms-Bot)
+![lincense](https://img.shields.io/github/license/ndhao164/Rise-of-Kingdoms-Bot)
 
 # Rise of Kingdom Bot
+
+### **Main source**
+- Link: https://github.com/yuceltoluyag/Rise-of-Kingdoms-Bot
 
 ### **Introduction**
 
@@ -11,11 +14,11 @@ Rise of Kingdom Bot can do following job: claim quests/vip/gifts, collecting res
 
 If you have any problem, suggestions or new features, please feel free to submit issues directly on GitHub
 
-- Link: https://github.com/yuceltoluyag/Rise-of-Kingdoms-Bot/issues
+- Link: https://github.com/ndhao164/Rise-of-Kingdoms-Bot/issues
 
 If you don't know where to download the files, you can check this file.
 
-- Link: [links.txt](https://github.com/yuceltoluyag/Rise-of-Kingdoms-Bot/blob/main/links.txt)
+- Link: [links.txt](https://github.com/ndhao164/Rise-of-Kingdoms-Bot/blob/main/links.txt)
 
 If you like this project, give me a star or feedback , that is great help for me. **:smile:**
 
@@ -85,7 +88,7 @@ Note: Don't forget to move your **'save'**, **'config.json'** and **'devices_con
 
 # Can it do captcha?
 
-- Yes, it does, you need to get a paid membership from one of the 9:29 [Videotime](https://github.com/yuceltoluyag/Rise-of-Kingdoms-Bot#show-case) hapi or 2captcha Sites, you will paste the key you bought from there in the settings section. 9:29 [Videotime](https://github.com/yuceltoluyag/Rise-of-Kingdoms-Bot#show-case) If you want to support [2captcha.com](https://2captcha.com?from=11847506)
+- Yes, it does, you need to get a paid membership from one of the 9:29 [Videotime](https://github.com/ndhao164/Rise-of-Kingdoms-Bot#show-case) hapi or 2captcha Sites, you will paste the key you bought from there in the settings section. 9:29 [Videotime](https://github.com/ndhao164/Rise-of-Kingdoms-Bot#show-case) If you want to support [2captcha.com](https://2captcha.com?from=11847506)
 ### Set Up
 
 - Use following commands to install package into you **python** / **python virtual environment** (version 3.7)
@@ -111,11 +114,11 @@ Note: Don't forget to move your **'save'**, **'config.json'** and **'devices_con
 
 - Directory Structure Image:
 
-  ![](https://github.com/yuceltoluyag/Rise-of-Kingdoms-Bot/blob/main/docs/structure.png?raw=true)
+  ![](https://github.com/ndhao164/Rise-of-Kingdoms-Bot/blob/main/docs/structure.png?raw=true)
 
 - New ui:
 
-  ![](https://github.com/yuceltoluyag/Rise-of-Kingdoms-Bot/blob/main/docs/new_ui.png?raw=true)
+  ![](https://github.com/ndhao164/Rise-of-Kingdoms-Bot/blob/main/docs/new_ui.png?raw=true)
 
 ### Configurations
 
@@ -131,4 +134,4 @@ Note: Don't forget to move your **'save'**, **'config.json'** and **'devices_con
 ### Show case
 
 [![](https://markdown-videos.deta.dev/youtube/6IObh_HJvrk)](https://youtu.be/6IObh_HJvrk)
-- [Youtube Shorts](https://www.youtube.com/@yuceltoluyag/shorts) 
+- [Youtube Shorts](https://www.youtube.com/@ndhao164/shorts) 
