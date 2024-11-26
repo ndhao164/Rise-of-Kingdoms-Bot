@@ -6,6 +6,7 @@
 # Rise of Kingdom Bot
 
 ### **Main source**
+
 - Link: https://github.com/yuceltoluyag/Rise-of-Kingdoms-Bot
 
 ### **Introduction**
@@ -26,9 +27,6 @@ If you like this project, give me a star or feedback , that is great help for me
 
 **Update:**
 
-- Enable Sunset Canyon.
-- Enable LOST Canyon.
-- Use Items(Some Features)
 - Find device LDPlayer
 
 Note: Don't forget to move your **'save'**, **'config.json'** and **'devices_config.json'** to new version folder
@@ -64,31 +62,33 @@ Note: Don't forget to move your **'save'**, **'config.json'** and **'devices_con
 
 ### Functions
 
-| Name                                                   | Status          |
-| ------------------------------------------------------ | --------------- |
-| Automatically start the game when game is not running  | **<u>Done</u>** |
-| Automatically locating building                        | **<u>Done</u>** |
-| Collecting resource, troops, and help alliance         | **<u>Done</u>** |
-| Produce material                                       | **<u>Done</u>** |
-| Open free chest in tavern                              | **<u>Done</u>** |
-| Claim quest and daily objectives                       | **<u>Done</u>** |
-| Claim VIP chest                                        | **<u>Done</u>** |
-| Claim Event                                            | not yet         |
-| Collecting allied resource, gifs and donate technology | **<u>Done</u>** |
-| Upgrade and train troops                               | <u>**Done**</u> |
-| Attack barbarians                                      | <u>**Done**</u> |
-| Heal troops                                            | <u>**Done**</u> |
-| Gather resource                                        | **<u>Done</u>** |
-| Mystery Merchant                                       | <u>**Done**</u> |
-| A simple GUI                                           | **<u>Done</u>** |
-| Allow bot control multi-devices/emulator               | **<u>Done</u>** |
+| Name                                                   | Status             |
+| ------------------------------------------------------ | ------------------ |
+| Automatically start the game when game is not running  | **<u>Done</u>**    |
+| Automatically locating building                        | **<u>Done</u>**    |
+| Collecting resource, troops, and help alliance         | **<u>Done</u>**    |
+| Produce material                                       | **<u>Done</u>**    |
+| Open free chest in tavern                              | **<u>Done</u>**    |
+| Claim quest and daily objectives                       | **<u>Done</u>**    |
+| Claim VIP chest                                        | **<u>Done</u>**    |
+| Claim Event                                            | not yet            |
+| Collecting allied resource, gifs and donate technology | **<u>Done</u>**    |
+| Upgrade and train troops                               | <u>**Done**</u>    |
+| Attack barbarians                                      | <u>**Done**</u>    |
+| Heal troops                                            | <u>**Done**</u>    |
+| Gather resource                                        | **<u>Done</u>**    |
+| Mystery Merchant                                       | <u>**Done**</u>    |
+| A simple GUI                                           | **<u>Done</u>**    |
+| Allow bot control multi-devices/emulator               | **<u>Done</u>**    |
 | Pass verification with haoi API                        | **<u>not yet</u>** |
-| Pass verification with 2captcha API                    | **<u>Done</u>** |
-| Find devices                                           | **<u>Done</u>** |
+| Pass verification with 2captcha API                    | **<u>Done</u>**    |
+| Find devices                                           | **<u>Done</u>**    |
+| Gather gem                                             | **<u>Doing</u>**   |
 
 # Can it do captcha?
 
 - Yes, it does, you need to get a paid membership from one of the 9:29 [Videotime](https://github.com/ndhao164/Rise-of-Kingdoms-Bot#show-case) hapi or 2captcha Sites, you will paste the key you bought from there in the settings section. 9:29 [Videotime](https://github.com/ndhao164/Rise-of-Kingdoms-Bot#show-case) If you want to support [2captcha.com](https://2captcha.com?from=11847506)
+
 ### Set Up
 
 - Use following commands to install package into you **python** / **python virtual environment** (version 3.7)
@@ -134,4 +134,5 @@ Note: Don't forget to move your **'save'**, **'config.json'** and **'devices_con
 ### Show case
 
 [![](https://markdown-videos.deta.dev/youtube/6IObh_HJvrk)](https://youtu.be/6IObh_HJvrk)
-- [Youtube Shorts](https://www.youtube.com/@ndhao164/shorts) 
+
+- [Youtube Shorts](https://www.youtube.com/@ndhao164/shorts)
